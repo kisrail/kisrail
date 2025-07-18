@@ -1,16 +1,23 @@
-### Hi there 👋
+# Kirllos Israil
 
-<!--
-**ciroisrail/ciroisrail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Assistant Auditor | 🎓 BSc Economics & Management | 📍 Milan, Italy  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧾 Learning the ropes in legal auditing
+- 🎓 Starting an MSc in Finance & Economics @ Statale Milan
+
+## 🛠️ Tools & Skills
+
+- **Languages**: Italian (native), English (advanced), French (basic)
+- **Programming Languages**:
+- **Software**: Excel, Caseware Idea, PowerBI
+- **Technical Skills**: Financial Analysis, Auditing & Compliance, Accounting
+
+## ✍️ Latest Projects
+
+- 📚 BSc Thesis: Financial Statements Analysis of Companies in the Road Freight Transport Sector (2024)
+- :page_facing_up: The Read Sea Crisis: How a Rebellious Group Disrupted Global Trade (2024)
+
+## :trophy: Awards & Certifications
+
