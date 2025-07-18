@@ -17,7 +17,7 @@
 ## ✍️ Latest Projects
 
 - 📚 BSc Thesis: Financial Statements Analysis of Companies in the Road Freight Transport Sector (2024)
-- :page_facing_up: The Read Sea Crisis: How a Rebellious Group Disrupted Global Trade (2024)
+- :page_facing_up: The Red Sea Crisis: How a Rebellious Group Disrupted Global Trade (2024)
 
 ## :trophy: Awards & Certifications
 
